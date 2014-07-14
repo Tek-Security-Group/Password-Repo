@@ -1,6 +1,6 @@
-Tek Security Group's Password Repository
+<h1>Tek Security Group's Password Repository</h1>
 ----------------------------------------
-Welcome
+Welcome:
 
 In this repository you will find helpful authentication brute forcing files. These files include known password defaults, usernames, common and specialized dictionaries, etc. Feel free to contribute to these files. You may do so by emailing suggestions and files to tektengu@teksecgrp.com. If you want to become a member and actively contribute email your interest to that same address as well.
 
