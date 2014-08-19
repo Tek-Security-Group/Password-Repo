@@ -6,6 +6,6 @@ Tek Tengu</a>. If you want to become a member and actively contribute email your
 <h3>Layout:</h3>
 <ul>
 <li>services - a repository of service (telnet, ftp, etc) related username and/or passwords.</li>
-<li>general - general password files like "top 25 for 2013).</li>
+<li>general - general password files like "top 25 for 2013".</li>
 <li>dictionaries - raw dictionary lists.</li>
 </ul>
